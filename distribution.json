@@ -2263,13 +2263,14 @@
           }
         },
         {
-          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.6+1.20.1-forge@jar",
-          "name": "YetAnotherConfigLib",
-          "type": "ForgeMod",
+          "id": "com.rizomamc:servers:1.0.0",
+          "name": "Lista de Servidores Rizoma",
+          "type": "File",
           "artifact": {
-            "size": 1105891,
-            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
-            "MD5": "2437cb642e24726a83f864e345f24479"
+            "size": 81,
+            "MD5": "596E517BB062AE4C692F551B46038833",
+            "path": "servers.dat",
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers.dat"
           }
         }
       ]
