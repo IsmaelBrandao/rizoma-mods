@@ -2272,6 +2272,136 @@
             "path": "servers.dat",
             "url": "https://ismaelbrandao.github.io/rizoma-mods/servers.dat"
           }
+        },
+        {
+          "id": "dev.denismasterherobrine:angelring:2.2.3@jar",
+          "name": "Angel Ring 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 119709,
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/angelring-1.20.1-2.3.1.jar",
+            "MD5": "573df9234099d731335982f5a21d9536"
+          }
+        },
+        {
+          "id": "de.melanx:botanicalmachinery:1.20.1-3.0.7@jar",
+          "name": "Botanical Machinery",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 232301,
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/BotanicalMachinery-1.20.1-3.0.7.jar",
+            "MD5": "6567ea4919561f63021bad36f759435e"
+          }
+        },
+        {
+          "id": "io.github.kosmx.emotes:emotecraft:2.2.7-b.build.50@jar",
+          "name": "Emotecraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 680255,
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "MD5": "636c62379cd7c5201a70fd457808e331"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbquests:2001.4.17@jar",
+          "name": "FTB Quests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1227820,
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/ftb-quests-forge-2001.4.17.jar",
+            "MD5": "35f79e8e8b0849d6038cd4cd9c86b08a"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbultimine:2001.1.7@jar",
+          "name": "FTB Ultimine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 114945,
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/ftb-ultimine-forge-2001.1.7.jar",
+            "MD5": "79187bd77a9671a94d7cbf8a1aa20ec3"
+          }
+        },
+        {
+          "id": "org.cyclops:integratedtunnels:1.9.3@jar",
+          "name": "IntegratedTunnels",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 623072,
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/IntegratedTunnels-1.20.1-1.9.3.jar",
+            "MD5": "c3d536572d02b59523fb8b9c62dfc305"
+          }
+        },
+        {
+          "id": "org.moddingx:libx:1.20.1-5.0.12@jar",
+          "name": "LibX",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1253011,
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/LibX-1.20.1-5.0.12.jar",
+            "MD5": "2c7126e987fab7977637f59e1b473a93"
+          }
+        },
+        {
+          "id": "mcjty.lib:mcjtylib:1.20-8.0.7@jar",
+          "name": "McJtyLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 714330,
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/mcjtylib-1.20-8.0.7.jar",
+            "MD5": "82737486fb2a3f5c693c9d2ee40e0828"
+          }
+        },
+        {
+          "id": "com.gizmo.trophies:obtrophies:1.20.1-5.1.5@jar",
+          "name": "OpenBlocks Trophies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 912121,
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/OpenBlocksTrophies-1.20.1-5.1.5.jar",
+            "MD5": "2053f86ed5e9bea70d4b2bb3aca5d088"
+          }
+        },
+        {
+          "id": "mcjty.rftoolsbase:rftoolsbase:1.20-5.0.6@jar",
+          "name": "RFToolsBase",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 419413,
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/rftoolsbase-1.20-5.0.6.jar",
+            "MD5": "1d33a2a24c03ce853fba6371dcdea6bf"
+          }
+        },
+        {
+          "id": "mcjty.rftoolsutility:rftoolsutility:1.20-6.0.6@jar",
+          "name": "RFToolsUtility",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1368153,
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/rftoolsutility-1.20-6.0.6.jar",
+            "MD5": "0937ea0ac32daeee1e5c6275428e8f61"
+          }
+        },
+        {
+          "id": "mcjty.xnet:xnet:1.20-6.1.6@jar",
+          "name": "XNet",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 574781,
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/xnet-1.20-6.1.6.jar",
+            "MD5": "5db4bf46622a655a3fadf1009a99353f"
+          }
+        },
+        {
+          "id": "terrails.xnetgases:xnetgases:5.1.4@jar",
+          "name": "XNet Gases",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 224425,
+            "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/xnetgases-1.20.1-5.1.4.jar",
+            "MD5": "e3f01c5d52af4c0f2e12ea8ddb4c02aa"
+          }
         }
       ]
     }
