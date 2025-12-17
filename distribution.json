@@ -3705,6 +3705,17 @@
                     }
                 },
                 {
+                    "id": "servers.dat",
+                    "name": "servers.dat",
+                    "type": "File",
+                    "artifact": {
+                        "size": 82,
+                        "url": "https://ismaelbrandao.github.io/RizomaDayZ/servers/rizoma-dayz-1.20.1/files/servers.dat",
+                        "MD5": "80df677865ec67db86459f04a99763df",
+                        "path": "servers.dat"
+                    }
+                },
+                {
                     "id": "Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip.txt",
                     "name": "Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip.txt",
                     "type": "File",
