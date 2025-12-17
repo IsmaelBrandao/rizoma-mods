@@ -2408,10 +2408,10 @@
         {
             "id": "rizoma-dayz-1.20.1",
             "name": "rizoma-dayz (Minecraft 1.20.1)",
-            "description": "rizoma-dayz Running Minecraft 1.20.1 (Forge v47.4.0)",
-            "icon": null,
+            "description": "Sobrevivência pós-apocalíptica no mundo Rizoma.",
+            "icon": "https://raw.githubusercontent.com/IsmaelBrandao/rizoma-mods/main/RizomaDayZ.png",
             "version": "1.0.0",
-            "address": "localhost:25565",
+            "address": "dayz.rizomamc.com.br",
             "minecraftVersion": "1.20.1",
             "discord": {
                 "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -2938,16 +2938,6 @@
                         "size": 182464,
                         "url": "https://ismaelbrandao.github.io/RizomaDayZ/servers/rizoma-dayz-1.20.1/forgemods/required/ConnectorExtras-1.11.2+1.20.1.jar",
                         "MD5": "6a79978270b2aa5ddc42c2be4f4d73a7"
-                    }
-                },
-                {
-                    "id": "generated.forgemod:continuity:3.0.0+1.20.1.forge@jar",
-                    "name": "Continuity",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 1016666,
-                        "url": "https://ismaelbrandao.github.io/RizomaDayZ/servers/rizoma-dayz-1.20.1/forgemods/required/continuity-3.0.0+1.20.1.forge.jar",
-                        "MD5": "d14cdccb4b6c161d9846cc8cdf03068e"
                     }
                 },
                 {
