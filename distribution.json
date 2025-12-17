@@ -2931,16 +2931,6 @@
                     }
                 },
                 {
-                    "id": "dev.su5ed.sinytra:connectorextras:1.11.2+1.20.1@jar",
-                    "name": "Connector Extras",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 182464,
-                        "url": "https://ismaelbrandao.github.io/RizomaDayZ/servers/rizoma-dayz-1.20.1/forgemods/required/ConnectorExtras-1.11.2+1.20.1.jar",
-                        "MD5": "6a79978270b2aa5ddc42c2be4f4d73a7"
-                    }
-                },
-                {
                     "id": "com.corosus.coroutil.loader:coroutil:1.20.1-1.3.7@jar",
                     "name": "CoroUtil",
                     "type": "ForgeMod",
