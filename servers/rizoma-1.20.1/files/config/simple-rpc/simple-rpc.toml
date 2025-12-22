@@ -1,0 +1,151 @@
+[general]
+	applicationID = "1320951155911561387"
+	enabled = true
+	debugging = false
+	launcherIntegration = false
+	rpcImageServer = false
+	rpcImageServerUrl = "https://rpcavatar.firstdark.dev"
+	version = 26
+
+# --- TELA DE CARREGAMENTO (INIT) ---
+[init]
+	enabled = true
+	[[init.presence]]
+		type = "PLAYING"
+		# Texto chamativo enquanto carrega
+		description = "🚀 CARREGANDO RIZOMA..."
+		state = "Preparando os Motores ⚙️"
+		largeImageKey = ["grass"]
+		largeImageText = "Prepare-se para a Aventura!"
+		smallImageKey = ["mclogonew"]
+		smallImageText = "Carregando..."
+		buttons = [
+			{ label = "Site do Servidor", url = "https://loja.rizomamc.com.br" },
+			{ label = "Entrar no Discord", url = "https://discord.rizomamc.com.br" }
+		]
+
+# --- MENU PRINCIPAL (CORREÇÃO AQUI) ---
+[main_menu]
+	enabled = true
+	[[main_menu.presence]]
+		type = "PLAYING"
+		# CORREÇÃO: Agora mostra que você está configurando, não jogando
+		description = "No Menu Principal 🛠️"
+		state = "Configurando Mods..."
+		largeImageKey = ["grass"]
+		largeImageText = "Rizoma MC - Menu"
+		# Mostra a carinha do seu boneco
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		buttons = [
+			{ label = "Site do Servidor", url = "https://loja.rizomamc.com.br" },
+			{ label = "Entrar no Discord", url = "https://discord.rizomamc.com.br" }
+		]
+
+# --- MULTIPLAYER / DENTRO DO SERVIDOR (O DESTAQUE) ---
+[multi_player]
+	enabled = true
+	[[multi_player.presence]]
+		type = "PLAYING"
+		# DESTAQUE MÁXIMO NO NOME DO SERVIDOR COM EMOJIS
+		description = "🔥 O Melhor Modpack do Brasil 🔥"
+		# Frase de efeito abaixo
+		state = "Sobrevivendo com {{player.name}}"
+		largeImageKey = ["grass"]
+		largeImageText = "O Melhor Modpack do Brasil!"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		buttons = [
+			{ label = "Site do Servidor", url = "https://loja.rizomamc.com.br" },
+			{ label = "Entrar no Discord", url = "https://discord.rizomamc.com.br" }
+		]
+
+# --- SINGLE PLAYER (CASO JOGUE SOZINHO) ---
+[single_player]
+	enabled = true
+	[[single_player.presence]]
+		type = "PLAYING"
+		description = "🌎 Explorando Solo"
+		state = "Mundo: {{world.name}}"
+		largeImageKey = ["grass"]
+		largeImageText = "Jogando Localmente"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		buttons = [
+			{ label = "Site do Servidor", url = "https://loja.rizomamc.com.br" },
+			{ label = "Entrar no Discord", url = "https://discord.rizomamc.com.br" }
+		]
+
+# --- OUTRAS TELAS (PADRÃO) ---
+[server_list]
+	enabled = true
+	[[server_list.presence]]
+		type = "PLAYING"
+		description = "Procurando Servidor 🔎"
+		state = "Na lista de servidores"
+		largeImageKey = ["grass"]
+		largeImageText = "Rizoma MC"
+		buttons = [
+			{ label = "Site do Servidor", url = "https://loja.rizomamc.com.br" },
+			{ label = "Entrar no Discord", url = "https://discord.rizomamc.com.br" }
+		]
+
+[join_game]
+	enabled = true
+	[[join_game.presence]]
+		type = "PLAYING"
+		description = "Entrando no Servidor... 🚀"
+		state = "Conectando..."
+		largeImageKey = ["grass"]
+		buttons = [
+			{ label = "Site do Servidor", url = "https://loja.rizomamc.com.br" },
+			{ label = "Entrar no Discord", url = "https://discord.rizomamc.com.br" }
+		]
+
+[realms_list]
+	enabled = true
+	[[realms_list.presence]]
+		type = "PLAYING"
+		description = "No Menu"
+		state = "Vendo Realms"
+		largeImageKey = ["grass"]
+		buttons = []
+
+[realms]
+	enabled = true
+	[[realms.presence]]
+		type = "PLAYING"
+		description = "Jogando Realms"
+		state = ""
+		largeImageKey = ["grass"]
+		buttons = []
+
+[paused]
+	enabled = true
+	[[paused.presence]]
+		type = "PLAYING"
+		description = "Jogo Pausado ⏸️"
+		state = "Indo pegar um café ☕"
+		largeImageKey = ["grass"]
+		buttons = [
+			{ label = "Site do Servidor", url = "https://loja.rizomamc.com.br" },
+			{ label = "Entrar no Discord", url = "https://discord.rizomamc.com.br" }
+		]
+
+[generic]
+	[[generic.presence]]
+		type = "PLAYING"
+		description = "Jogando Rizoma MC"
+		state = ""
+		largeImageKey = ["grass"]
+		buttons = [
+			{ label = "Site do Servidor", url = "https://loja.rizomamc.com.br" },
+			{ label = "Entrar no Discord", url = "https://discord.rizomamc.com.br" }
+		]
+
+[custom]
+	enabled = true
+	variables = []
+
+[dimension_overrides]
+	enabled = false
