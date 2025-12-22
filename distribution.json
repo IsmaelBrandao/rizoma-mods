@@ -2448,24 +2448,12 @@
             ]
         },
         {
-            "id": "rizoma-dayz-1.20.1",
-            "name": "rizoma-dayz (Minecraft 1.20.1)",
+            "id": "rizomadayZ-1.20.1",
+            "name": "rizomadayZ (Minecraft 1.20.1)",
             "description": "Sobrevivência pós-apocalíptica no mundo Rizoma.",
             "icon": "https://raw.githubusercontent.com/IsmaelBrandao/rizoma-mods/main/RizomaDayZ.png",
             "version": "1.0.0",
             "address": "dayz.rizomamc.com.br",
-            "minecraftVersion": "1.20.1",
-            "mainServer": false,
-            "autoconnect": false,
-            "modules": []
-        },
-        {
-            "id": "rizomadayZ-1.20.1",
-            "name": "rizomadayZ (Minecraft 1.20.1)",
-            "description": "rizomadayZ Running Minecraft 1.20.1 (Forge v47.4.0)",
-            "icon": null,
-            "version": "1.0.0",
-            "address": "localhost:25565",
             "minecraftVersion": "1.20.1",
             "discord": {
                 "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
