@@ -2402,6 +2402,48 @@
                         "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/xnetgases-1.20.1-5.1.4.jar",
                         "MD5": "e3f01c5d52af4c0f2e12ea8ddb4c02aa"
                     }
+                },
+                {
+                    "id": "com.hypherionmc:craterlib:3.0.1@jar",
+                    "name": "CraterLib",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1242132,
+                        "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/CraterLib-Forge-1.20-3.0.1.jar",
+                        "MD5": "b1eb62b51e94fde0642cd37e44ddadb0"
+                    }
+                },
+                {
+                    "id": "com.hypherionmc.simplerpc.loaders:simplerpc:4.0.5@jar",
+                    "name": "Simple RPC",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 714159,
+                        "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/forgemods/required/SimpleRPC-4.0.5.jar",
+                        "MD5": "a50e60d4ff0297eef39f6e67f01d983c"
+                    }
+                },
+                {
+                    "id": "server-entries.toml",
+                    "name": "server-entries.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 150,
+                        "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/files/config/simple-rpc/server-entries.toml",
+                        "MD5": "c1d25129313571d7ffa9aa2654338ec2",
+                        "path": "config/simple-rpc/server-entries.toml"
+                    }
+                },
+                {
+                    "id": "simple-rpc.toml",
+                    "name": "simple-rpc.toml",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4432,
+                        "url": "https://ismaelbrandao.github.io/rizoma-mods/servers/rizoma-1.20.1/files/config/simple-rpc/simple-rpc.toml",
+                        "MD5": "892c4fb0bc2e04fecf0b1c6127beeb46",
+                        "path": "config/simple-rpc/simple-rpc.toml"
+                    }
                 }
             ]
         },
