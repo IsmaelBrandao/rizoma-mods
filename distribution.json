@@ -9,7 +9,7 @@
     "servers": [
         {
             "id": "rizoma-1.20.1",
-            "name": "rizoma (Minecraft 1.20.1)",
+            "name": "Rizoma Machines",
             "address": "jogar.rizomamc.com.br",
             "description": "rizoma Running Minecraft 1.20.1 (Forge v47.4.0)",
             "icon": "https://raw.githubusercontent.com/IsmaelBrandao/rizoma-mods/main/SealCircle2.png",
@@ -2449,7 +2449,7 @@
         },
         {
             "id": "rizomadayZ-1.20.1",
-            "name": "rizomadayZ (Minecraft 1.20.1)",
+            "name": "Rizoma DayZ",
             "description": "Sobrevivência pós-apocalíptica no mundo Rizoma.",
             "icon": "https://raw.githubusercontent.com/IsmaelBrandao/rizoma-mods/main/RizomaDayZ.png",
             "version": "1.0.0",
