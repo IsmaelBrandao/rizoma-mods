@@ -4217,6 +4217,17 @@
                         "MD5": "4c757405f11d8ec01df2b1b064780e05",
                         "path": "resourcepacks/Invisible Bossbar (all).zip"
                     }
+                },
+                {
+                    "id": "servers.dat",
+                    "name": "servers.dat",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3391,
+                        "url": "https://ismaelbrandao.github.io/RizomaDayzMods/servers/rizomadayZ-1.20.1/files/servers.dat",
+                        "MD5": "5d8c4df34f42e87de74b33b82e9d1e69",
+                        "path": "servers.dat"
+                    }
                 }
             ]
         }
